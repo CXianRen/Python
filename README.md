@@ -1,2 +1,2 @@
 # Python
-some intersting projects
+some interesting projects
